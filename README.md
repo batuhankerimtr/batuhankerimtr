@@ -1,3 +1,3 @@
 ### Merhaba bro 👋
 
-[img]https://i.imgur.com/MiJOJSK.gif[/img]
+![Alt Text](https://i.imgur.com/MiJOJSK.gif)
