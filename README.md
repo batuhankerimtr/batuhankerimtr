@@ -1,3 +1,3 @@
 ### Merhaba bro 👋
 
-![Alt Text](http://l.wigflip.com/dx21KuwA/signbot.gif)
+![Alt Text](https://i.ibb.co/5BYX7z6/Ekran-Kayd-2022-09-04-23-03-17.gif)
